@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Year,Deaths - Cause: Diarrheal diseases - Risk: Unsafe water source - Sex: Both - Age: Under 5 (Number),Deaths - Cause: Diarrheal diseases - Risk: No access to handwashing facility - Sex: Both - Age: Under 5 (Number)
 2017.0,5036.6,1922.6
 2017.0,10661.6,4031.6
 2017.0,2628.0,1006.2
 2017.0,3959.8,1478.0
 2017.0,7950.4,3017.6
+=======
+Year,Deaths - Cause: Diarrheal diseases - Risk: Unsafe water source - Sex: Both - Age: Under 5 (Number),Deaths - Cause: Diarrheal diseases - Risk: No access to handwashing facility - Sex: Both - Age: Under 5 (Number)
+2017.0,5036.6,1922.6
+2017.0,10661.6,4031.6
+2017.0,2628.0,1006.2
+2017.0,3959.8,1478.0
+2017.0,7950.4,3017.6
+>>>>>>> 86c457ba26ae6df2ac0777655ed08d9a5114ec2d
