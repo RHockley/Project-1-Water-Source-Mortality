@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 Country,Country Code,Year Range,Deaths - Cause: Diarrheal diseases - Risk: Unsafe water source - Sex: Both - Age: Under 5,Deaths - Cause: Diarrheal diseases - Risk: No access to handwashing facility - Sex: Both - Age: Under 5
 Bermuda,BMU,2015 - 2019,0,0
 Luxembourg,LUX,2015 - 2019,0,0
 Monaco,MCO,2015 - 2019,0,0
 Norway,NOR,2015 - 2019,0,0
 Switzerland,CHE,2015 - 2019,0,0
-=======
-Country,Country Code,Year Range,Deaths - Cause: Diarrheal diseases - Risk: Unsafe water source - Sex: Both - Age: Under 5,Deaths - Cause: Diarrheal diseases - Risk: No access to handwashing facility - Sex: Both - Age: Under 5
-Bermuda,BMU,2015 - 2019,0,0
-Luxembourg,LUX,2015 - 2019,0,0
-Monaco,MCO,2015 - 2019,0,0
-Norway,NOR,2015 - 2019,0,0
-Switzerland,CHE,2015 - 2019,0,0
->>>>>>> 86c457ba26ae6df2ac0777655ed08d9a5114ec2d
